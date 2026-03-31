@@ -1,1 +1,1 @@
-Few first C++ projects at 42
+First few C++ projects at 42
